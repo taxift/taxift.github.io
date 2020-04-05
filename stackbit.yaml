@@ -2,7 +2,7 @@ stackbitVersion: ~0.2.0
 ssgName: jekyll
 ssgVersion: 0.1.12
 buildCommand: ./ssg-build.sh
-publishDir: _docs
+publishDir: ../takashift.github.io #docs
 staticDir: ''
 uploadDir: images
 dataDir: _data
